@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="elect_1">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="elect_2">ELECTION COMMISSION OF THAILAND</string>
+    <string name="count_down"><center>Count Down To Election Day</center></string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="next">Next</string>
+    <string name="n_day">365</string>
+    <string name="n_hours">24</string>
+    <string name="n_minute">60</string>
+    <string name="n_second">60</string>
+</resources>
