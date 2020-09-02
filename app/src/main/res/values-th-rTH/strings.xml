@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Homework1</string>
+    <string name="app_name">Smart Vote</string>
     <string name="elect_1">สำนักงานคณะกรรมการการเลือกตั้ง</string>
     <string name="elect_2">ELECTION COMMISSION OF THAILAND</string>
     <string name="days">วัน</string>
@@ -13,4 +13,6 @@
     <string name="n_hours">24</string>
     <string name="n_minute">60</string>
     <string name="n_second">60</string>
+    <string name="input_number">กรอกเลขบัตรประชาชน</string>
+    <string name="check">ตรวจสอบสิทธิเลือกตั้ง</string>
 </resources>
